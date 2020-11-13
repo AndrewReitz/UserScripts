@@ -1,0 +1,10 @@
+# UserScrips
+
+A better place to put my scripts than in gists.
+
+## To Use
+
+. Install TamperMonkey (should also work with GreaseMonkey)
+. Go to the script you want to install in github's UI
+. Click raw button on the right hand side
+. Press "Install"
