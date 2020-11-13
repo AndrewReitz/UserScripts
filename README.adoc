@@ -1,4 +1,4 @@
-# UserScrips
+# UserScripts
 
 A better place to put my scripts than in gists.
 
